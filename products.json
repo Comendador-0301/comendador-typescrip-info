@@ -1,0 +1,17 @@
+{
+    "c2493b10-a8f3-4661-97a6-446f968347a8":{
+        "id":"c2493b10-a8f3-4661-97a6-446f968347a8",
+        "name":"Wrist watch",
+        "price":500,
+        "quantity":50,
+        "image":"image_url.png"
+        },
+    
+    "edcfb479-6667-43d6-8c34-2ae79f6121f7":{
+        "id":"edcfb479-6667-43d6-8c34-2ae79f6121f7",
+        "name":"Bracelet",
+        "price":1000,
+        "quantity":50,
+        "image":"image_url.png"
+        }
+}
